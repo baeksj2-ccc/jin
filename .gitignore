@@ -1,0 +1,7 @@
+# Source resumes may contain personal contact details; keep them local.
+*.docx
+*.pdf
+
+# Local system files
+.DS_Store
+Thumbs.db
